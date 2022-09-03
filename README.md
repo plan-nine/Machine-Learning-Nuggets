@@ -1,1 +1,1 @@
-# Machine-Learning-Nuggets
+# machine-learning-nuggets
